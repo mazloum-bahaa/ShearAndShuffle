@@ -68,4 +68,7 @@ This could involve:
 │   ├── t150.txt
 │   └── t180.txt
 ├── README.md
-└── example_scripts/    # (Optional, for analysis or baseline models)
+├── analysis_scripts/
+│   ├── compute_d2min.py
+│   ├── detect_t1_events.py
+│   └── generate_data.py
