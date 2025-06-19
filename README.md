@@ -57,18 +57,3 @@ This could involve:
 
 ---
 
-## 📂 Folder Structure
-
-```plaintext
-/
-├── data/
-│   ├── t30.txt
-│   ├── t60.txt
-│   ├── t90.txt
-│   ├── t150.txt
-│   └── t180.txt
-├── README.md
-├── analysis_scripts/
-│   ├── compute_d2min.py
-│   ├── detect_t1_events.py
-│   └── generate_data.py
